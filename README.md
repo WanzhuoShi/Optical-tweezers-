@@ -7,4 +7,5 @@
 
 此外，维基可以帮助我们迅速对光镊有一个概览，推荐阅读[optical tweezers Wikipedia](https://en.wikipedia.org/wiki/Optical_tweezers)
       
-     了解高斯光束也很重要[Gaussian_beam Wikipedia](https://en.wikipedia.org/wiki/Gaussian_beam)
+了解高斯光束也很重要 [Gaussian_beam Wikipedia](https://en.wikipedia.org/wiki/Gaussian_beam)
+ 
